@@ -1,4 +1,4 @@
-# movielist - inject framework showcase
+# movielist - dependency injection showcase
 
 This is movielist, a web application that provides some endpoints for keeping track of movies.
 It's not really usable, it is just a showcase and testbed for my [dependency injection library](https://github.com/schrer/inject)
