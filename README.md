@@ -5,7 +5,7 @@ It's not really usable, it is just a showcase and testbed for my [dependency inj
 
 It uses Javalin to serve HTTP endpoints and my injection library to instantiate handlers, a repository and some configuration values.
 
-## Build and run
+## Build requirements
 To be able to build and run it you need to clone the injection library and push it into your local maven repository, as it is not published anywhere as a JAR.
 
 ```bash
