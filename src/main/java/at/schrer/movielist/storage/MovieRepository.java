@@ -31,10 +31,6 @@ public class MovieRepository {
         return movies.remove(imdbId) != null;
     }
 
-    public void updateMovie(Movie movie) {
-        movies.put(movie.getImdbId(), movie);
-    }
-
     public List<Movie> getAllMovies() {
         return movies.values().stream().toList();
     }

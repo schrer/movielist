@@ -9,7 +9,9 @@ import lombok.*;
 @AllArgsConstructor
 public class Movie {
     private String title;
-    @Builder.Default
-    private Boolean watched = false;
     private String imdbId;
+    private Integer year;
+    private String language;
+    private Float imdbRating;
+    private String plot;
 }
