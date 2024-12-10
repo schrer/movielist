@@ -7,7 +7,7 @@ group = "at.schrer"
 version = "1.0-SNAPSHOT"
 
 val javalinVersion = "6.3.0"
-val injectVersion = "1.0.0"
+val injectVersion = "1.1.0"
 val junitVersion = "5.10.0"
 val slf4jSimpleVersion = "2.0.16"
 val jacksonVersion = "2.17.2"
